@@ -81,9 +81,9 @@ REN brings **on-premise economics** and **cloud convenience** together like neve
 
 ## 📚 Resources
 
-- [Documentation](https://docs.ren.io)
-- [Dashboard](https://dashboard.ren.io)
-- [Community Forum](https://forum.ren.io)
+- [Documentation](https://rencomputer.fun/)
+- [Dashboard](https://rencomputer.fun/dashboard)
+- [Community](https://x.com/rencomputersol)
 
 ## 📝 License
 
