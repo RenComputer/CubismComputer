@@ -1,6 +1,6 @@
-# REN: The Cloud You Own
+# CUBISM: The Cloud You Own
 
-Welcome to REN, a groundbreaking platform combining **on-demand elastic resources** with **on-premise economics and governance**. Enjoy the flexibility of the cloud without sacrificing control, efficiency, or scalability.
+Welcome to CUBISM, a groundbreaking platform combining **on-demand elastic resources** with **on-premise economics and governance**. Enjoy the flexibility of the cloud without sacrificing control, efficiency, or scalability.
 
 ## 🚀 Features
 
@@ -36,9 +36,9 @@ Your central hub for managing resources, monitoring performance, and optimizing 
 
 ---
 
-## 🛠️ Try REN Now
+## 🛠️ Try CUBISM Now
 
-Experience REN live on [**pump.fun**](https://pump.fun).
+Experience CUBISM live on [**pump.fun**](https://pump.fun).
 
 - **Accelerate Developer Velocity**: Build faster with a self-service environment.
 - **Simplify Operations**: Centralize resource management for greater efficiency.
@@ -47,7 +47,7 @@ Experience REN live on [**pump.fun**](https://pump.fun).
 
 ## 🛒 Buy Now
 
-Take advantage of REN’s capabilities today:
+Take advantage of CUBISM’s capabilities today:
 
 ### Elastic Compute
 | **Instance** | **Description**                |
@@ -69,9 +69,9 @@ Take advantage of REN’s capabilities today:
 
 ---
 
-## 🌍 Why REN?
+## 🌍 Why CUBISM?
 
-REN brings **on-premise economics** and **cloud convenience** together like never before.
+CUBISM brings **on-premise economics** and **cloud convenience** together like never before.
 
 - **2x Compute Density**: Achieve more with optimized hardware.
 - **12x Cooling Efficiency**: Run cooler, save power.
@@ -81,9 +81,9 @@ REN brings **on-premise economics** and **cloud convenience** together like neve
 
 ## 📚 Resources
 
-- [Documentation](https://rencomputer.fun/)
-- [Dashboard](https://rencomputer.fun/dashboard)
-- [Community](https://x.com/rencomputersol)
+- [Documentation](https://cubismcomputer.fun/)
+- [Dashboard](https://cubismcomputer.fun/dashboard)
+- [Community](https://x.com/cubismcomputersol)
 
 ## 📝 License
 
